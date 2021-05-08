@@ -18,5 +18,5 @@ Buscar um restaurante
     Wait For Elements State         css=.place-info-box
     Get Text    css=.place-info-box     contains        DEBUGER KING
     # think time esper user pensar
-    Sleep       3
+    #Sleep       3
     Take Screenshot
