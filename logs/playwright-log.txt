@@ -1,0 +1,19 @@
+{"level":30,"time":"2021-05-08T22:49:53.390Z","pid":3632,"hostname":"CPX-NUIBRCLSNXG","msg":"Listening on 59458"}
+{"level":30,"time":"2021-05-08T22:49:54.949Z","pid":3632,"hostname":"CPX-NUIBRCLSNXG","msg":"Changed active context"}
+{"level":30,"time":"2021-05-08T22:49:56.378Z","pid":3632,"hostname":"CPX-NUIBRCLSNXG","msg":"Video path: undefined"}
+{"level":30,"time":"2021-05-08T22:49:56.378Z","pid":3632,"hostname":"CPX-NUIBRCLSNXG","msg":"Changed active page"}
+{"level":30,"time":"2021-05-08T22:50:00.247Z","pid":3632,"hostname":"CPX-NUIBRCLSNXG","msg":"Retrieved text for element css=span containing Nunca foi tão engraçado pedir comida"}
+{"level":30,"time":"2021-05-08T22:50:00.398Z","pid":3632,"hostname":"CPX-NUIBRCLSNXG","msg":"Retrieved text for element css=h1 strong containing Ta na hora de matar a fome!"}
+{"level":30,"time":"2021-05-08T22:50:01.505Z","pid":3632,"hostname":"CPX-NUIBRCLSNXG","msg":"Retrieved text for element css=.place-info-box containing PIZZA BUG\n 4.9\nPizzaria\n25m"}
+{"level":30,"time":"2021-05-08T22:50:01.533Z","pid":3632,"hostname":"CPX-NUIBRCLSNXG","msg":"Retrieved text for element css=.place-info-box containing PIZZA BUG\n 4.9\nPizzaria\n25m"}
+{"level":30,"time":"2021-05-08T22:50:01.563Z","pid":3632,"hostname":"CPX-NUIBRCLSNXG","msg":"Retrieved text for element css=.place-info-box containing PIZZA BUG\n 4.9\nPizzaria\n25m"}
+{"level":30,"time":"2021-05-08T22:50:01.619Z","pid":3632,"hostname":"CPX-NUIBRCLSNXG","msg":"Retrieved text for element css=.place-info-box containing PIZZA BUG\n 4.9\nPizzaria\n25m"}
+{"level":30,"time":"2021-05-08T22:50:01.684Z","pid":3632,"hostname":"CPX-NUIBRCLSNXG","msg":"Retrieved text for element css=.place-info-box containing PIZZA BUG\n 4.9\nPizzaria\n25m"}
+{"level":30,"time":"2021-05-08T22:50:01.760Z","pid":3632,"hostname":"CPX-NUIBRCLSNXG","msg":"Retrieved text for element css=.place-info-box containing \n    \n\n    \n      Pizza Bug\n       4.9\n      Pizzaria\n      25m\n    \n    \n  "}
+{"level":30,"time":"2021-05-08T22:50:01.818Z","pid":3632,"hostname":"CPX-NUIBRCLSNXG","msg":"Retrieved text for element css=.place-info-box containing DEBUGER KING\n 3.5\nHamburgers\n100m"}
+{"level":30,"time":"2021-05-08T22:50:01.832Z","pid":3632,"hostname":"CPX-NUIBRCLSNXG","msg":"Changed active context"}
+{"level":30,"time":"2021-05-08T22:50:01.833Z","pid":3632,"hostname":"CPX-NUIBRCLSNXG","msg":"Changing current active page"}
+{"level":30,"time":"2021-05-08T22:50:01.833Z","pid":3632,"hostname":"CPX-NUIBRCLSNXG","msg":"Changed active page"}
+{"level":30,"time":"2021-05-08T22:50:01.870Z","pid":3632,"hostname":"CPX-NUIBRCLSNXG","msg":"Changed active context"}
+{"level":30,"time":"2021-05-08T22:50:01.870Z","pid":3632,"hostname":"CPX-NUIBRCLSNXG","msg":"Changing current active page"}
+{"level":30,"time":"2021-05-08T22:50:01.871Z","pid":3632,"hostname":"CPX-NUIBRCLSNXG","msg":"Changed active page"}

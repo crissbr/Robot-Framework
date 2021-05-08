@@ -1,0 +1,17 @@
+{"level":30,"time":"2021-05-08T23:13:47.895Z","pid":7552,"hostname":"CPX-NUIBRCLSNXG","msg":"Listening on 51813"}
+{"level":30,"time":"2021-05-08T23:13:49.330Z","pid":7552,"hostname":"CPX-NUIBRCLSNXG","msg":"Changed active context"}
+{"level":30,"time":"2021-05-08T23:13:50.817Z","pid":7552,"hostname":"CPX-NUIBRCLSNXG","msg":"Video path: undefined"}
+{"level":30,"time":"2021-05-08T23:13:50.817Z","pid":7552,"hostname":"CPX-NUIBRCLSNXG","msg":"Changed active page"}
+{"level":30,"time":"2021-05-08T23:13:54.490Z","pid":7552,"hostname":"CPX-NUIBRCLSNXG","msg":"Retrieved text for element css=span containing Nunca foi tão engraçado pedir comida"}
+{"level":30,"time":"2021-05-08T23:13:54.592Z","pid":7552,"hostname":"CPX-NUIBRCLSNXG","msg":"Retrieved text for element css=h1 strong containing Ta na hora de matar a fome!"}
+{"level":30,"time":"2021-05-08T23:13:55.677Z","pid":7552,"hostname":"CPX-NUIBRCLSNXG","msg":"Retrieved text for element css=.place-info-box containing PIZZA BUG\n 4.9\nPizzaria\n25m"}
+{"level":30,"time":"2021-05-08T23:13:55.719Z","pid":7552,"hostname":"CPX-NUIBRCLSNXG","msg":"Retrieved text for element css=.place-info-box containing PIZZA BUG\n 4.9\nPizzaria\n25m"}
+{"level":30,"time":"2021-05-08T23:13:55.758Z","pid":7552,"hostname":"CPX-NUIBRCLSNXG","msg":"Retrieved text for element css=.place-info-box containing PIZZA BUG\n 4.9\nPizzaria\n25m"}
+{"level":30,"time":"2021-05-08T23:13:55.804Z","pid":7552,"hostname":"CPX-NUIBRCLSNXG","msg":"Retrieved text for element css=.place-info-box containing PIZZA BUG\n 4.9\nPizzaria\n25m"}
+{"level":30,"time":"2021-05-08T23:13:55.839Z","pid":7552,"hostname":"CPX-NUIBRCLSNXG","msg":"Retrieved text for element css=.place-info-box containing DEBUGER KING\n 3.5\nHamburgers\n100m"}
+{"level":30,"time":"2021-05-08T23:13:59.112Z","pid":7552,"hostname":"CPX-NUIBRCLSNXG","msg":"Changed active context"}
+{"level":30,"time":"2021-05-08T23:13:59.112Z","pid":7552,"hostname":"CPX-NUIBRCLSNXG","msg":"Changing current active page"}
+{"level":30,"time":"2021-05-08T23:13:59.113Z","pid":7552,"hostname":"CPX-NUIBRCLSNXG","msg":"Changed active page"}
+{"level":30,"time":"2021-05-08T23:13:59.141Z","pid":7552,"hostname":"CPX-NUIBRCLSNXG","msg":"Changed active context"}
+{"level":30,"time":"2021-05-08T23:13:59.141Z","pid":7552,"hostname":"CPX-NUIBRCLSNXG","msg":"Changing current active page"}
+{"level":30,"time":"2021-05-08T23:13:59.141Z","pid":7552,"hostname":"CPX-NUIBRCLSNXG","msg":"Changed active page"}
