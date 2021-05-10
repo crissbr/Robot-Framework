@@ -1,36 +1,89 @@
-{"level":30,"time":"2021-05-09T02:04:06.222Z","pid":11108,"hostname":"CPX-NUIBRCLSNXG","msg":"Listening on 51296"}
-{"level":30,"time":"2021-05-09T02:04:07.054Z","pid":11108,"hostname":"CPX-NUIBRCLSNXG","msg":"Changed active context"}
-{"level":30,"time":"2021-05-09T02:04:07.810Z","pid":11108,"hostname":"CPX-NUIBRCLSNXG","msg":"Video path: undefined"}
-{"level":30,"time":"2021-05-09T02:04:07.810Z","pid":11108,"hostname":"CPX-NUIBRCLSNXG","msg":"Changed active page"}
-{"level":30,"time":"2021-05-09T02:04:10.280Z","pid":11108,"hostname":"CPX-NUIBRCLSNXG","msg":"Retrieved text for element css=span containing Nunca foi tão engraçado pedir comida"}
-{"level":30,"time":"2021-05-09T02:04:10.382Z","pid":11108,"hostname":"CPX-NUIBRCLSNXG","msg":"Retrieved text for element css=h1 strong containing Ta na hora de matar a fome!"}
-{"level":30,"time":"2021-05-09T02:04:11.736Z","pid":11108,"hostname":"CPX-NUIBRCLSNXG","msg":"Retrieved text for element css=div[class=\"place-info-box\"][style=\"opacity: 1;\"] containing DEBUGER KING\n 3.5\nHamburgers\n100m"}
-{"level":30,"time":"2021-05-09T02:04:11.916Z","pid":11108,"hostname":"CPX-NUIBRCLSNXG","msg":"Changed active context"}
-{"level":30,"time":"2021-05-09T02:04:11.916Z","pid":11108,"hostname":"CPX-NUIBRCLSNXG","msg":"Changing current active page"}
-{"level":30,"time":"2021-05-09T02:04:11.916Z","pid":11108,"hostname":"CPX-NUIBRCLSNXG","msg":"Changed active page"}
-{"level":30,"time":"2021-05-09T02:04:11.930Z","pid":11108,"hostname":"CPX-NUIBRCLSNXG","msg":"Changed active context"}
-{"level":30,"time":"2021-05-09T02:04:11.930Z","pid":11108,"hostname":"CPX-NUIBRCLSNXG","msg":"Changing current active page"}
-{"level":30,"time":"2021-05-09T02:04:11.930Z","pid":11108,"hostname":"CPX-NUIBRCLSNXG","msg":"Changed active page"}
-{"level":30,"time":"2021-05-09T02:04:12.484Z","pid":11108,"hostname":"CPX-NUIBRCLSNXG","msg":"Changed active context"}
-{"level":30,"time":"2021-05-09T02:04:13.293Z","pid":11108,"hostname":"CPX-NUIBRCLSNXG","msg":"Video path: undefined"}
-{"level":30,"time":"2021-05-09T02:04:13.293Z","pid":11108,"hostname":"CPX-NUIBRCLSNXG","msg":"Changed active page"}
-{"level":30,"time":"2021-05-09T02:04:15.780Z","pid":11108,"hostname":"CPX-NUIBRCLSNXG","msg":"Retrieved text for element css=span containing Nunca foi tão engraçado pedir comida"}
-{"level":30,"time":"2021-05-09T02:04:15.880Z","pid":11108,"hostname":"CPX-NUIBRCLSNXG","msg":"Retrieved text for element css=h1 strong containing Ta na hora de matar a fome!"}
-{"level":30,"time":"2021-05-09T02:04:17.196Z","pid":11108,"hostname":"CPX-NUIBRCLSNXG","msg":"Retrieved text for element css=div[class=\"place-info-box\"][style=\"opacity: 1;\"] containing STARBUGS COFFEE\n 4.8\nCafeteria\n30-40m"}
-{"level":30,"time":"2021-05-09T02:04:17.399Z","pid":11108,"hostname":"CPX-NUIBRCLSNXG","msg":"Changed active context"}
-{"level":30,"time":"2021-05-09T02:04:17.399Z","pid":11108,"hostname":"CPX-NUIBRCLSNXG","msg":"Changing current active page"}
-{"level":30,"time":"2021-05-09T02:04:17.399Z","pid":11108,"hostname":"CPX-NUIBRCLSNXG","msg":"Changed active page"}
-{"level":30,"time":"2021-05-09T02:04:17.415Z","pid":11108,"hostname":"CPX-NUIBRCLSNXG","msg":"Changed active context"}
-{"level":30,"time":"2021-05-09T02:04:17.415Z","pid":11108,"hostname":"CPX-NUIBRCLSNXG","msg":"Changing current active page"}
-{"level":30,"time":"2021-05-09T02:04:17.415Z","pid":11108,"hostname":"CPX-NUIBRCLSNXG","msg":"Changed active page"}
-{"level":30,"time":"2021-05-09T02:04:17.984Z","pid":11108,"hostname":"CPX-NUIBRCLSNXG","msg":"Changed active context"}
-{"level":30,"time":"2021-05-09T02:04:18.866Z","pid":11108,"hostname":"CPX-NUIBRCLSNXG","msg":"Video path: undefined"}
-{"level":30,"time":"2021-05-09T02:04:18.866Z","pid":11108,"hostname":"CPX-NUIBRCLSNXG","msg":"Changed active page"}
-{"level":30,"time":"2021-05-09T02:04:21.329Z","pid":11108,"hostname":"CPX-NUIBRCLSNXG","msg":"Retrieved text for element css=span containing Nunca foi tão engraçado pedir comida"}
-{"level":30,"time":"2021-05-09T02:04:21.465Z","pid":11108,"hostname":"CPX-NUIBRCLSNXG","msg":"Retrieved text for element css=h1 strong containing Ta na hora de matar a fome!"}
-{"level":30,"time":"2021-05-09T02:04:23.065Z","pid":11108,"hostname":"CPX-NUIBRCLSNXG","msg":"Changed active context"}
-{"level":30,"time":"2021-05-09T02:04:23.065Z","pid":11108,"hostname":"CPX-NUIBRCLSNXG","msg":"Changing current active page"}
-{"level":30,"time":"2021-05-09T02:04:23.065Z","pid":11108,"hostname":"CPX-NUIBRCLSNXG","msg":"Changed active page"}
-{"level":30,"time":"2021-05-09T02:04:23.084Z","pid":11108,"hostname":"CPX-NUIBRCLSNXG","msg":"Changed active context"}
-{"level":30,"time":"2021-05-09T02:04:23.084Z","pid":11108,"hostname":"CPX-NUIBRCLSNXG","msg":"Changing current active page"}
-{"level":30,"time":"2021-05-09T02:04:23.084Z","pid":11108,"hostname":"CPX-NUIBRCLSNXG","msg":"Changed active page"}
+{"level":30,"time":"2021-05-09T23:34:40.788Z","pid":20868,"hostname":"CPX-NUIBRCLSNXG","msg":"Listening on 63562"}
+{"level":30,"time":"2021-05-09T23:34:42.254Z","pid":20868,"hostname":"CPX-NUIBRCLSNXG","msg":"Changed active context"}
+{"level":30,"time":"2021-05-09T23:34:43.871Z","pid":20868,"hostname":"CPX-NUIBRCLSNXG","msg":"Video path: undefined"}
+{"level":30,"time":"2021-05-09T23:34:43.871Z","pid":20868,"hostname":"CPX-NUIBRCLSNXG","msg":"Changed active page"}
+{"level":30,"time":"2021-05-09T23:34:48.373Z","pid":20868,"hostname":"CPX-NUIBRCLSNXG","msg":"Retrieved text for element css=span containing Nunca foi tão engraçado pedir comida"}
+{"level":30,"time":"2021-05-09T23:34:48.496Z","pid":20868,"hostname":"CPX-NUIBRCLSNXG","msg":"Retrieved text for element css=h1 strong containing Ta na hora de matar a fome!"}
+{"level":30,"time":"2021-05-09T23:34:50.105Z","pid":20868,"hostname":"CPX-NUIBRCLSNXG","msg":"Retrieved text for element css=div[class=\"place-info-box\"][style=\"opacity: 1;\"] containing DEBUGER KING\n 3.5\nHamburgers\n100m"}
+{"level":30,"time":"2021-05-09T23:34:50.406Z","pid":20868,"hostname":"CPX-NUIBRCLSNXG","msg":"Changed active context"}
+{"level":30,"time":"2021-05-09T23:34:50.406Z","pid":20868,"hostname":"CPX-NUIBRCLSNXG","msg":"Changing current active page"}
+{"level":30,"time":"2021-05-09T23:34:50.406Z","pid":20868,"hostname":"CPX-NUIBRCLSNXG","msg":"Changed active page"}
+{"level":30,"time":"2021-05-09T23:34:50.424Z","pid":20868,"hostname":"CPX-NUIBRCLSNXG","msg":"Changed active context"}
+{"level":30,"time":"2021-05-09T23:34:50.424Z","pid":20868,"hostname":"CPX-NUIBRCLSNXG","msg":"Changing current active page"}
+{"level":30,"time":"2021-05-09T23:34:50.424Z","pid":20868,"hostname":"CPX-NUIBRCLSNXG","msg":"Changed active page"}
+{"level":30,"time":"2021-05-09T23:34:51.419Z","pid":20868,"hostname":"CPX-NUIBRCLSNXG","msg":"Changed active context"}
+{"level":30,"time":"2021-05-09T23:34:52.328Z","pid":20868,"hostname":"CPX-NUIBRCLSNXG","msg":"Video path: undefined"}
+{"level":30,"time":"2021-05-09T23:34:52.328Z","pid":20868,"hostname":"CPX-NUIBRCLSNXG","msg":"Changed active page"}
+{"level":30,"time":"2021-05-09T23:34:55.471Z","pid":20868,"hostname":"CPX-NUIBRCLSNXG","msg":"Retrieved text for element css=span containing Nunca foi tão engraçado pedir comida"}
+{"level":30,"time":"2021-05-09T23:34:55.587Z","pid":20868,"hostname":"CPX-NUIBRCLSNXG","msg":"Retrieved text for element css=h1 strong containing Ta na hora de matar a fome!"}
+{"level":30,"time":"2021-05-09T23:34:57.056Z","pid":20868,"hostname":"CPX-NUIBRCLSNXG","msg":"Retrieved text for element css=div[class=\"place-info-box\"][style=\"opacity: 1;\"] containing STARBUGS COFFEE\n 4.8\nCafeteria\n30-40m"}
+{"level":30,"time":"2021-05-09T23:34:57.291Z","pid":20868,"hostname":"CPX-NUIBRCLSNXG","msg":"Changed active context"}
+{"level":30,"time":"2021-05-09T23:34:57.291Z","pid":20868,"hostname":"CPX-NUIBRCLSNXG","msg":"Changing current active page"}
+{"level":30,"time":"2021-05-09T23:34:57.291Z","pid":20868,"hostname":"CPX-NUIBRCLSNXG","msg":"Changed active page"}
+{"level":30,"time":"2021-05-09T23:34:57.307Z","pid":20868,"hostname":"CPX-NUIBRCLSNXG","msg":"Changed active context"}
+{"level":30,"time":"2021-05-09T23:34:57.307Z","pid":20868,"hostname":"CPX-NUIBRCLSNXG","msg":"Changing current active page"}
+{"level":30,"time":"2021-05-09T23:34:57.307Z","pid":20868,"hostname":"CPX-NUIBRCLSNXG","msg":"Changed active page"}
+{"level":30,"time":"2021-05-09T23:34:58.414Z","pid":20868,"hostname":"CPX-NUIBRCLSNXG","msg":"Changed active context"}
+{"level":30,"time":"2021-05-09T23:34:59.760Z","pid":20868,"hostname":"CPX-NUIBRCLSNXG","msg":"Video path: undefined"}
+{"level":30,"time":"2021-05-09T23:34:59.760Z","pid":20868,"hostname":"CPX-NUIBRCLSNXG","msg":"Changed active page"}
+================= Original suppressed error =================
+page.goto: Timeout 10000ms exceeded.
+=========================== logs ===========================
+navigating to "http://parodifood.qaninja.academy/", waiting until "load"
+============================================================
+Note: use DEBUG=pw:api environment variable to capture Playwright logs.
+Error
+    at Object.captureStackTrace (c:\python39\lib\site-packages\Browser\wrapper\node_modules\playwright\lib\utils\stackTrace.js:48:19)
+    at Connection.sendMessageToServer (c:\python39\lib\site-packages\Browser\wrapper\node_modules\playwright\lib\client\connection.js:69:48)
+    at Proxy.<anonymous> (c:\python39\lib\site-packages\Browser\wrapper\node_modules\playwright\lib\client\channelOwner.js:64:61)
+    at c:\python39\lib\site-packages\Browser\wrapper\node_modules\playwright\lib\client\frame.js:102:65
+    at Frame._wrapApiCall (c:\python39\lib\site-packages\Browser\wrapper\node_modules\playwright\lib\client\channelOwner.js:77:34)
+    at Frame.goto (c:\python39\lib\site-packages\Browser\wrapper\node_modules\playwright\lib\client\frame.js:100:21)
+    at c:\python39\lib\site-packages\Browser\wrapper\node_modules\playwright\lib\client\page.js:296:60
+    at Page._attributeToPage (c:\python39\lib\site-packages\Browser\wrapper\node_modules\playwright\lib\client\page.js:231:20)
+    at Page.goto (c:\python39\lib\site-packages\Browser\wrapper\node_modules\playwright\lib\client\page.js:296:21)
+    at c:\python39\lib\site-packages\Browser\wrapper\index.js:69788:49 {
+  name: 'TimeoutError'
+}
+=============================================================
+================= Original suppressed error =================
+Error: Tried to take screenshot, but no page was open.
+    at Object.exists (c:\python39\lib\site-packages\Browser\wrapper\index.js:69134:15)
+    at c:\python39\lib\site-packages\Browser\wrapper\index.js:66387:41
+    at step (c:\python39\lib\site-packages\Browser\wrapper\index.js:66334:23)
+    at Object.next (c:\python39\lib\site-packages\Browser\wrapper\index.js:66315:53)
+    at c:\python39\lib\site-packages\Browser\wrapper\index.js:66309:71
+    at new Promise (<anonymous>)
+    at __webpack_modules__../node/playwright-wrapper/browser-control.ts.__awaiter (c:\python39\lib\site-packages\Browser\wrapper\index.js:66305:12)
+    at takeScreenshot (c:\python39\lib\site-packages\Browser\wrapper\index.js:66361:12)
+    at PlaywrightServer.<anonymous> (c:\python39\lib\site-packages\Browser\wrapper\index.js:67486:50)
+    at step (c:\python39\lib\site-packages\Browser\wrapper\index.js:67439:23)
+=============================================================
+================= Original suppressed error =================
+Error: Tried to take screenshot, but no page was open.
+    at Object.exists (c:\python39\lib\site-packages\Browser\wrapper\index.js:69134:15)
+    at c:\python39\lib\site-packages\Browser\wrapper\index.js:66387:41
+    at step (c:\python39\lib\site-packages\Browser\wrapper\index.js:66334:23)
+    at Object.next (c:\python39\lib\site-packages\Browser\wrapper\index.js:66315:53)
+    at c:\python39\lib\site-packages\Browser\wrapper\index.js:66309:71
+    at new Promise (<anonymous>)
+    at __webpack_modules__../node/playwright-wrapper/browser-control.ts.__awaiter (c:\python39\lib\site-packages\Browser\wrapper\index.js:66305:12)
+    at takeScreenshot (c:\python39\lib\site-packages\Browser\wrapper\index.js:66361:12)
+    at PlaywrightServer.<anonymous> (c:\python39\lib\site-packages\Browser\wrapper\index.js:67486:50)
+    at step (c:\python39\lib\site-packages\Browser\wrapper\index.js:67439:23)
+=============================================================
+================= Original suppressed error =================
+Error: Tried to take screenshot, but no page was open.
+    at Object.exists (c:\python39\lib\site-packages\Browser\wrapper\index.js:69134:15)
+    at c:\python39\lib\site-packages\Browser\wrapper\index.js:66387:41
+    at step (c:\python39\lib\site-packages\Browser\wrapper\index.js:66334:23)
+    at Object.next (c:\python39\lib\site-packages\Browser\wrapper\index.js:66315:53)
+    at c:\python39\lib\site-packages\Browser\wrapper\index.js:66309:71
+    at new Promise (<anonymous>)
+    at __webpack_modules__../node/playwright-wrapper/browser-control.ts.__awaiter (c:\python39\lib\site-packages\Browser\wrapper\index.js:66305:12)
+    at takeScreenshot (c:\python39\lib\site-packages\Browser\wrapper\index.js:66361:12)
+    at PlaywrightServer.<anonymous> (c:\python39\lib\site-packages\Browser\wrapper\index.js:67486:50)
+    at step (c:\python39\lib\site-packages\Browser\wrapper\index.js:67439:23)
+=============================================================
+{"level":30,"time":"2021-05-09T23:35:09.889Z","pid":20868,"hostname":"CPX-NUIBRCLSNXG","msg":"Changed active context"}
+{"level":30,"time":"2021-05-09T23:35:09.896Z","pid":20868,"hostname":"CPX-NUIBRCLSNXG","msg":"Changed active context"}
